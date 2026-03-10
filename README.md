@@ -33,3 +33,8 @@ Run tests with pytest:
 ```bash
 pytest
 ```
+
+## Contributing
+
+Contributions are welcome! Update the code, add tests, and open a pull request.  
+Follow [Conventional Commits](https://www.conventionalcommits.org/) for commit messages to make publishing and changelog generation easier.
